@@ -1,3 +1,2 @@
-This is my Website used for trial 
-Wanting to learn about REACT
-you can acces it by "npm start"
+Its a trial website created to see how things work on GITHUB 
+interested Jump in to see " my-app"
