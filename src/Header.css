@@ -1,0 +1,13 @@
+.h1{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.p{
+    font-size: 1.2rem;
+    max-width: 600px;
+}
+.container{
+    flex-direction: column;
+    justify-content: center;
+}

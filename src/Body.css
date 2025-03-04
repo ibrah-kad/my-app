@@ -1,0 +1,20 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:max-content ;
+}
+.card{
+    width: 300px;
+    padding: 20px;
+    background: lightslategray;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    text-align: center;
+    border-style:groove;
+    border: 6px solid #ddd;
+
+}
+.button{
+    background-color:mediumslateblue;
+}
